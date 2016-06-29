@@ -1,0 +1,11 @@
+AUCest.Reiser		Estimate AUC corrected for measurement error based on
+			Reiser's (2000) method
+AUCest.Rosner		Estimate AUC corrected for measurement error based on
+			Rosner et al's (2015)
+genSimDataModelII	Generate a simulated data set based on Model II in
+			Rosner et al's (2015)
+
+genSimDataModelIII	Generate a simulated data set based on Model III in
+			Rosner et al's (2015)
+genSimDataReiser	Generate a simulated data set based on 
+			Reiser's (2000) method

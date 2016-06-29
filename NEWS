@@ -1,0 +1,8 @@
+v0.0.3 created on June 29, 2016
+  (1) add Dr. Rosner and Tworoger to the author list
+  (2) fixed a compliation NOTE by 
+   adding importFrom("stats", "dnorm", "optim", "pnorm", "qnorm", "rnorm")
+   to the NAMESPACE file. Thank Dr. Kurt Hornik for help!
+
+v0.0.2 created on June 29, 2016
+submit to CRAN
